@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Name - Independent Veterinarian</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #fde9eb; /* Soft Pink Background */
+      color: #333; /* Dark Text Color */
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+
+    header {
+      background-color: #ff9fa8; /* Light Pink Header */
+      padding: 20px;
+    }
+
+    h1, h2 {
+      margin-bottom: 5px;
+    }
+
+    section {
+      margin: 20px;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      margin-top: 10px;
+    }
+
+    footer {
+      background-color: #ff9fa8; /* Light Pink Footer */
+      padding: 10px;
+    }
+
+    .contact {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Your Name, DVM</h1>
+    <h2>Independent Veterinarian</h2>
+  </header>
+
+  <section>
+    <h2>Services</h2>
+    <p>Welcome to my veterinary practice, where compassionate care meets expertise. I offer the following services:</p>
+    <ul>
+      <li>General Check-ups</li>
+      <li>Vaccinations</li>
+      <li>Surgery</li>
+      <li>Dental Care</li>
+      <!-- Add more services as needed -->
+    </ul>
+  </section>
+
+  <section>
+    <h2>Cute Companions</h2>
+    <p>Because every pet deserves some extra love, here are a few adorable faces I've had the pleasure of caring for:</p>
+    <img src="kitten1.jpg" alt="Cute Kitten 1">
+    <img src="kitten2.jpg" alt="Cute Kitten 2">
+    <!-- Add more kitten images as needed -->
+  </section>
+
+  <section class="contact">
+    <h2>Contact Me</h2>
+    <p>For appointments or inquiries, feel free to reach out:</p>
+    <!-- Add your WhatsApp QR code image here -->
+    <img src="whatsapp-qr-code.png" alt="WhatsApp QR Code">
+    <p>WhatsApp: <a href="https://wa.me/56950975592" target="_blank">+56950975592</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Your Name, DVM. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
